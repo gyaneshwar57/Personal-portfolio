@@ -39,7 +39,7 @@ export default function Home() {
             <div>Hi, My name is <span className="purple">Gyaneshwar</span></div>
             <span ref={typedElementRef}></span> 
             <div className="buttons">
-              <a href="./CVResumewb2.pdf" download>
+              <a href="./CVFullStack.pdf" download>
                 <button className="btn">Download Resume</button>
               </a>
               <a href="https://github.com/gyaneshwar57">
